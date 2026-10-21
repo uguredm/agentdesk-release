@@ -1,0 +1,39 @@
+{
+  "version": 2,
+  "announcements": [
+    {
+      "id": "surum-0-1-6",
+      "level": "info",
+      "title": "AgentDesk 0.1.6 yayında",
+      "body": "Hesap menüsü, takım şeridi, oda mesajları, anlama göre arama ve telefondan onay düzeltildi; iş dağıtırken donma giderildi, güvenlik güncellemeleri yapıldı. Bu sürüm zorunlu güncellemedir.",
+      "publishedAt": "2026-10-21T00:00:00Z",
+      "target": {
+        "apps": ["agentdesk"]
+      },
+      "action": {
+        "label": "Sürüm notları",
+        "url": "https://github.com/uguredm/agentdesk-release/releases/tag/v0.1.6"
+      },
+      "i18n": {
+        "en": {
+          "title": "AgentDesk 0.1.6 is out",
+          "body": "Fixes for the account menu, team strip, room messages, semantic search and phone approvals; no more freezes while delegating; security updates. This is a required update.",
+          "actionLabel": "Release notes"
+        }
+      },
+      "dismissible": true
+    },
+    {
+      "id": "surum-0-1-5",
+      "level": "info",
+      "title": "0.1.5'e hoş geldin",
+      "body": "Bu sürümden itibaren AgentDesk'e hesabınla giriş yapıyorsun. Sorun yaşarsan bize yaz.",
+      "publishedAt": "2026-10-20T00:00:00Z",
+      "target": {
+        "apps": ["agentdesk"],
+        "maxVersion": "0.1.5"
+      },
+      "dismissible": true
+    }
+  ]
+}
