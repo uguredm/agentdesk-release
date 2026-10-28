@@ -2,6 +2,28 @@
   "version": 2,
   "announcements": [
     {
+      "id": "surum-0-2-0",
+      "level": "info",
+      "title": "AgentDesk 0.2.0 yayında",
+      "body": "Yenilenen arayüz, yeni ofis düzenleri ve uygulama içi tur geldi. Uygulama daha hızlı, çok daha az bellek kullanıyor; geri bildirimini artık uygulamadan gönderebilirsin. Güncellemeler imzalı.",
+      "publishedAt": "2026-10-28T17:05:58Z",
+      "target": {
+        "apps": ["agentdesk"]
+      },
+      "action": {
+        "label": "Sürüm notları",
+        "url": "https://github.com/uguredm/agentdesk-release/releases/tag/v0.2.0"
+      },
+      "i18n": {
+        "en": {
+          "title": "AgentDesk 0.2.0 is out",
+          "body": "A refreshed interface, new office layouts and an in-app tour. The app is faster and uses much less memory, you can send feedback from inside the app, and updates are signed.",
+          "actionLabel": "Release notes"
+        }
+      },
+      "dismissible": true
+    },
+    {
       "id": "surum-0-1-6",
       "level": "info",
       "title": "AgentDesk 0.1.6 yayında",
